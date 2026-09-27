@@ -19,7 +19,7 @@
         </div>
         
         <div class='mm centro_texto' style ="height: 15vb">
-            <form action="">
+            <form action="first.php">
                 <label for="">Login</label>
                 <input type="text">     
                 <div class='mm centro_texto' style ="height: 15vb">
