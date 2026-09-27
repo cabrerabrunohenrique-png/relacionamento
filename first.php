@@ -20,44 +20,40 @@
             <div class="mm">
                 <p>Bruno</p>
                 <p>33 anos</p>
-                <p>Masculino</p>
-                
+                <p>Masculino</p>                
             </div>
         </div>
-        <div class="" style="border:5px solid black; display:flex; justify-content:space-between">
-            <div>
-            
-                <div class="mm">
-                    <p>visitantes</p>
-                    <p>conversas</p>
-                    <p>perguntas</p>
+        <div class="" style="border:5px solid black; display:flex; justify-content:center;">
+            <div class="mm" style="width:100%" >           
+                <div class="mm" >
+                        <a class="mm" href="" style="display: block; height:55px">visitantes</a>
+                        <a class="mm" href="" style="display: block;height:55px" >conversas</a>
+                        <a class="mm" href="" style="display: block;height:40px">perguntas</a>
                 </div>
-            
-            
-            
-                <div class="mm">                     
-                        <h1 style="display:flex;justify-content:center">PERFIL</h1>
-                        <div style="display:flex;justify-content: center">
-                            <div style="width:2vb"></div>
-                            <div>
-                                <img src="/img/teste.jpg" alt="" style="width:15vb; height:auto">
-                            </div>
-                            <div style="width:2vb"></div>
-                            <div>
-                                <img src="/img/teste.jpg" alt="" style="width:15vb; height:auto">
-                            </div>
-                            <div style="width:2vb"></div>
-                            <div>
-                                <img src="/img/teste.jpg" alt="" style="width:15vb; height:auto">
-                            </div>
-                            <div style="width:2vb"></div>
-                            <div>
-                                <img src="/img/teste.jpg" alt="" style="width:15vb; height:auto">
-                            </div>
-                            <div style="width:2vb"></div>
+            </div>
+
+            <div class="mm"style="width: 100%" >           
+                <div class="mm">
+                    <h1 style="display:flex;justify-content:center">PERFIL</h1>
+                    <div style="display:flex;justify-content: space-around">                      
+                        <div>
+                            <img src="/img/teste.jpg" alt="" style="width:15vb; height:auto">
                         </div>
-                   
-                
+                        
+                        <div>
+                            <img src="/img/teste.jpg" alt="" style="width:15vb; height:auto">
+                        </div>
+                       
+                        <div>
+                            <img src="/img/teste.jpg" alt="" style="width:15vb; height:auto">
+                        </div>
+                         <div>
+                            <img src="/img/teste.jpg" alt="" style="width:15vb; height:auto">
+                        </div> 
+                         <div>
+                            <img src="/img/teste.jpg" alt="" style="width:15vb; height:auto">
+                        </div>                   
+                    </div>         
                 </div>
             </div>
         </div>
