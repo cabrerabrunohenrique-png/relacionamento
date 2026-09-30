@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel ="stylesheet" href="../css/style.css">
-    <title>Document</title>
+    <title>Pagina inicio</title>
 </head>
-<body>
-    <div class="mm" style="height: 100vb">
+<body class="mm" style="height: 100vb">
+    <div >
         <div class="" style ="height: 30vb ; display:flex; justify-content: flex-start;border:2px solid red">
             <div style="border:2px solid black">
                 <div class="">
@@ -37,8 +37,11 @@
                     <h1 style="display:flex;justify-content:center">PERFIL</h1>
                     <div style="display:flex;justify-content: space-around">                      
                         <div>
-                            <img src="/img/teste.jpg" alt="" style="width:15vb; height:auto">
+                            <a href="second.php" >
+                                <img src="/img/teste.jpg" alt="" style="width:15vb; height:auto">
+                            </a>    
                         </div>
+
                         
                         <div>
                             <img src="/img/teste.jpg" alt="" style="width:15vb; height:auto">
