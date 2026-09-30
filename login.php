@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="../css/style.css">
     <title>login</title>
 </head>
-<body>
-    <div class='mm' style="height: 100vb">
+<body class="mm" style="height: 100vb">
+    <div>
 
         <div class='mm centro_texto' style="height: 20vb">
             <div>
